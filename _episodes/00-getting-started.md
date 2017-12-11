@@ -20,7 +20,7 @@ keypoints:
 
 * It is important to know what you did to your data. Additionally, journals, granting agencies, and other institutions are requiring documentation of the steps you took when working with your data. With OpenRefine, you can capture all actions applied to your raw data and share them with your publication as supplemental material.
 * All actions are easily reversed in OpenRefine.
-* You _must_ save your work to a new file; OpenRefine _does not_ modify your original dataset.
+* You _must_ save your work to a new file; OpenRefine _does not_ modify your original dataset. This is helpful for following best practices regarding using data (i.e., never edit the original dataset). 
 * Data is often very messy, and this tool saves a lot of time on cleaning headaches.
 * Data cleaning steps often need repeating with multiple files. OpenRefine is perfect for speeding up repetitive tasks by replaying previous actions on multiple datasets.
 * Some concepts such as clustering algorithms are quite complex, but OpenRefine makes it easy to introduce them, use them, and show their power.
@@ -42,5 +42,5 @@ You can find out a lot more about OpenRefine at [http://openrefine.org](http://o
 ## Features
 * Open source ([source on GitHub](https://github.com/OpenRefine/OpenRefine)).
 * A large growing community, from novice to expert, ready to help.
-* Works with large-ish datasets (100,000 rows). Does not scale to many millions. (yet).
+* Works with large-ish datasets (100,000 rows). Does not scale to many millions (yet).
 
